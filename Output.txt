@@ -1,0 +1,10 @@
+Enter the Number of persons: 6
+Enter the Height of Each person in cm 
+158
+167
+178
+187
+185
+168
+Average Height of 6 persons is : 173.83
+The Number of persons above Average Height : 3
